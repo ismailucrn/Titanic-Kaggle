@@ -1,2 +1,2 @@
 # Titanic-Kaggle
-Solving Kaggle Titanic problem with svc (78% accuracy)
+Solving Kaggle Titanic problem with SVC (78% accuracy)
